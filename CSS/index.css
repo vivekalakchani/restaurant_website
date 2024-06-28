@@ -1,0 +1,58 @@
+/**************************************/
+/*  common styles */
+/**************************************/
+@import "./general.css";
+
+/**************************************/
+/*  other styles */
+/**************************************/
+@import "./style.css";
+
+/**************************************/
+/*  queries styles */
+/**************************************/
+@import "./queries.css";
+
+/*
+--- TYPOGRAPHY SYSTEM
+
+- FONT SIZE SYSTEM (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+--- Font weights
+
+Default:400
+Medium:500
+Semi-bold:600
+bold:700 
+
+--- Line height
+
+Default:1
+Medium: 1.2
+1.05
+1.6
+--- color
+
+primary:#d3f9d8
+- Tints: 
+- Shades:
+- Accents:
+- Greys:
+#343a40
+
+--- latter spacing
+-0.5px
+0.75px
+
+--- Shadows
+
+--- Border- radius
+Default: 9px
+
+--- whiteSpace
+
+--- SPACING SYSTEM (px)
+2 / 4 / 8 / 12 / 16 / 24 / 32 / 48 / 64 / 80 / 96 / 128
+
+*/
